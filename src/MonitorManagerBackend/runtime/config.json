@@ -1,0 +1,9 @@
+{
+  "zabbix_server": "192.168.2.2:80",
+  "zabbix_rpc_target": "/zabbix/api_jsonrpc.php",
+  "zabbix_user": "Admin",
+  "zabbix_pwd": "zabbix",
+  "zabbix_enable_flag": 0,
+  "api_port":8096,
+  "healthcheck_port": 8100
+}

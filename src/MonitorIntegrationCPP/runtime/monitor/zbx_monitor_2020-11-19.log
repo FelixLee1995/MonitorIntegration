@@ -1,0 +1,5 @@
+[11/19/20 16:53:46.463426 ] [51640] [zbx_sender.cpp:48(run)] zabbixSender started
+[11/19/20 16:53:46.564891 ] [51640] [zbx_sender.cpp:75(tcp_send)] host: 180.76.115.130, port: 10051
+[11/19/20 16:53:46.599795 ] [51640] [zbx_sender.cpp:123(tcp_send)] send:2020-11-19 16:53:46@ws disconnect@websocketchannel disconnected!  please check@Fatal@MONITORFLAG
+[11/19/20 16:53:46.632444 ] [51640] [zbx_sender.cpp:136(tcp_send)] receive data:ZBXDZ
+[11/19/20 16:53:46.632530 ] [51640] [zbx_sender.cpp:139(tcp_send)] zabbix send end

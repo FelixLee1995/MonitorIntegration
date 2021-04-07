@@ -1,0 +1,18 @@
+C:\Users\felix lee\source\repos\MonitorIntegrationFramework\MonitorIntegrationFramework\bin\Release\MonitorIntegrationFramework.dll
+C:\Users\felix lee\source\repos\MonitorIntegrationFramework\MonitorIntegrationFramework\bin\Release\MonitorIntegrationFramework.pdb
+C:\Users\felix lee\source\repos\MonitorIntegrationFramework\MonitorIntegrationFramework\bin\Release\Newtonsoft.Json.dll
+C:\Users\felix lee\source\repos\MonitorIntegrationFramework\MonitorIntegrationFramework\bin\Release\Newtonsoft.Json.xml
+C:\Users\felix lee\source\repos\MonitorIntegrationFramework\MonitorIntegrationFramework\obj\Release\MonitorIntegrationFramework.csprojAssemblyReference.cache
+C:\Users\felix lee\source\repos\MonitorIntegrationFramework\MonitorIntegrationFramework\obj\Release\MonitorIntegrationFramework.csproj.CoreCompileInputs.cache
+C:\Users\felix lee\source\repos\MonitorIntegrationFramework\MonitorIntegrationFramework\obj\Release\MonitorIntegrationFramework.csproj.CopyComplete
+C:\Users\felix lee\source\repos\MonitorIntegrationFramework\MonitorIntegrationFramework\obj\Release\MonitorIntegrationFramework.dll
+C:\Users\felix lee\source\repos\MonitorIntegrationFramework\MonitorIntegrationFramework\obj\Release\MonitorIntegrationFramework.pdb
+C:\workspace\MonitorIntegration\src\MonitorIntegrationFramework\MonitorIntegrationFramework\bin\Release\MonitorIntegrationFramework.dll
+C:\workspace\MonitorIntegration\src\MonitorIntegrationFramework\MonitorIntegrationFramework\bin\Release\MonitorIntegrationFramework.pdb
+C:\workspace\MonitorIntegration\src\MonitorIntegrationFramework\MonitorIntegrationFramework\bin\Release\Newtonsoft.Json.dll
+C:\workspace\MonitorIntegration\src\MonitorIntegrationFramework\MonitorIntegrationFramework\bin\Release\Newtonsoft.Json.xml
+C:\workspace\MonitorIntegration\src\MonitorIntegrationFramework\MonitorIntegrationFramework\obj\Release\MonitorIntegrationFramework.csprojAssemblyReference.cache
+C:\workspace\MonitorIntegration\src\MonitorIntegrationFramework\MonitorIntegrationFramework\obj\Release\MonitorIntegrationFramework.csproj.CoreCompileInputs.cache
+C:\workspace\MonitorIntegration\src\MonitorIntegrationFramework\MonitorIntegrationFramework\obj\Release\MonitorIntegrationFramework.csproj.CopyComplete
+C:\workspace\MonitorIntegration\src\MonitorIntegrationFramework\MonitorIntegrationFramework\obj\Release\MonitorIntegrationFramework.dll
+C:\workspace\MonitorIntegration\src\MonitorIntegrationFramework\MonitorIntegrationFramework\obj\Release\MonitorIntegrationFramework.pdb

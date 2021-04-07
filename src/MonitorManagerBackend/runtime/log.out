@@ -1,0 +1,24 @@
+setrlimit success!
+Hello World!
+recv  result: 1939d7040b57aef85b954399f07a146d
+hostname: Zabbix server hostid: 10084
+hostname: 192.168.1.146 hostid: 10332
+hostname: 192.168.1.224 hostid: 10333
+hostname: 192.168.1.147 hostid: 10334
+hostname: 192.168.1.215 hostid: 10335
+hostname: myy hostid: 10336
+hostname: 192.168.1.159 hostid: 10337
+hostname: 192.168.1.128 hostid: 10339
+hostname: 192.168.1.218 hostid: 10340
+hostname: 192.168.1.88 hostid: 10341
+interfaceid: 1 hostid: 10084
+interfaceid: 5 hostid: 10332
+interfaceid: 6 hostid: 10333
+interfaceid: 7 hostid: 10334
+interfaceid: 8 hostid: 10335
+interfaceid: 9 hostid: 10336
+interfaceid: 10 hostid: 10337
+interfaceid: 12 hostid: 10339
+interfaceid: 13 hostid: 10340
+interfaceid: 14 hostid: 10341
+Server listening on port 8099

@@ -1,0 +1,29 @@
+C:\Users\felix lee\source\repos\MonitorIntegrationFramework\Caller\bin\Debug\Caller.exe
+C:\Users\felix lee\source\repos\MonitorIntegrationFramework\Caller\bin\Debug\Caller.pdb
+C:\Users\felix lee\source\repos\MonitorIntegrationFramework\Caller\bin\Debug\MonitorIntegrationFramework.dll
+C:\Users\felix lee\source\repos\MonitorIntegrationFramework\Caller\bin\Debug\Newtonsoft.Json.dll
+C:\Users\felix lee\source\repos\MonitorIntegrationFramework\Caller\bin\Debug\MonitorIntegrationFramework.pdb
+C:\Users\felix lee\source\repos\MonitorIntegrationFramework\Caller\bin\Debug\Newtonsoft.Json.xml
+C:\Users\felix lee\source\repos\MonitorIntegrationFramework\Caller\obj\Debug\Caller.csprojAssemblyReference.cache
+C:\Users\felix lee\source\repos\MonitorIntegrationFramework\Caller\obj\Debug\Caller.csproj.CoreCompileInputs.cache
+C:\Users\felix lee\source\repos\MonitorIntegrationFramework\Caller\obj\Debug\Caller.csproj.CopyComplete
+C:\Users\felix lee\source\repos\MonitorIntegrationFramework\Caller\obj\Debug\Caller.exe
+C:\Users\felix lee\source\repos\MonitorIntegrationFramework\Caller\obj\Debug\Caller.pdb
+C:\workspace\MonitorIntegration\src\MonitorIntegrationFramework\Caller\bin\Debug\Caller.exe.config
+C:\workspace\MonitorIntegration\src\MonitorIntegrationFramework\Caller\bin\Debug\Caller.exe
+C:\workspace\MonitorIntegration\src\MonitorIntegrationFramework\Caller\bin\Debug\Caller.pdb
+C:\workspace\MonitorIntegration\src\MonitorIntegrationFramework\Caller\bin\Debug\MonitorIntegrationFramework.dll
+C:\workspace\MonitorIntegration\src\MonitorIntegrationFramework\Caller\bin\Debug\System.IO.dll
+C:\workspace\MonitorIntegration\src\MonitorIntegrationFramework\Caller\bin\Debug\System.Runtime.dll
+C:\workspace\MonitorIntegration\src\MonitorIntegrationFramework\Caller\bin\Debug\System.Threading.Tasks.dll
+C:\workspace\MonitorIntegration\src\MonitorIntegrationFramework\Caller\bin\Debug\Newtonsoft.Json.dll
+C:\workspace\MonitorIntegration\src\MonitorIntegrationFramework\Caller\bin\Debug\MonitorIntegrationFramework.pdb
+C:\workspace\MonitorIntegration\src\MonitorIntegrationFramework\Caller\bin\Debug\System.IO.xml
+C:\workspace\MonitorIntegration\src\MonitorIntegrationFramework\Caller\bin\Debug\System.Runtime.xml
+C:\workspace\MonitorIntegration\src\MonitorIntegrationFramework\Caller\bin\Debug\System.Threading.Tasks.xml
+C:\workspace\MonitorIntegration\src\MonitorIntegrationFramework\Caller\bin\Debug\Newtonsoft.Json.xml
+C:\workspace\MonitorIntegration\src\MonitorIntegrationFramework\Caller\obj\Debug\Caller.csprojAssemblyReference.cache
+C:\workspace\MonitorIntegration\src\MonitorIntegrationFramework\Caller\obj\Debug\Caller.csproj.CoreCompileInputs.cache
+C:\workspace\MonitorIntegration\src\MonitorIntegrationFramework\Caller\obj\Debug\Caller.csproj.CopyComplete
+C:\workspace\MonitorIntegration\src\MonitorIntegrationFramework\Caller\obj\Debug\Caller.exe
+C:\workspace\MonitorIntegration\src\MonitorIntegrationFramework\Caller\obj\Debug\Caller.pdb
